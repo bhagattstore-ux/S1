@@ -1,1 +1,14 @@
-
+[
+  {
+    "section": "Section A",
+    "question_hi": "सूक्ष्म शिक्षण संप्रत्यय को समझाते हुए इसकी महत्त्व स्पष्ट कीजिए।",
+    "question_en": "Explain the concept of micro teaching and its importance.",
+    "answer": "यहाँ इस प्रश्न का पूरा उत्तर लिखें (आप इसमें HTML टैग्स जैसे <br> या <b> भी इस्तेमाल कर सकते हैं)..."
+  },
+  {
+    "section": "Section B",
+    "question_hi": "सूक्ष्म शिक्षण चक्र बनाते हुए प्रक्रिया को समझाइए।",
+    "question_en": "Draw micro teaching cycle and explain its process.",
+    "answer": "यहाँ इस प्रश्न का पूरा उत्तर लिखें..."
+  }
+]
